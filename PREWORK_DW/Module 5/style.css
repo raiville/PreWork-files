@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+}
+
+.Red {
+    color: red;
+}
+
+.Blue {
+    color: blue;
+}
+
+.Green {
+    color: green;
+}
+
+.Big {
+    font-size: large; font-weight: bold;
+}
+
+.Tiny {
+    font-size: small;
+}
+
+.Centre {
+    text-align: center;
+}
+
+.Bold {
+    font-weight: bold;
+}
+
+.Font {
+    font-family: Helvetica;
+}
+
+.Multi {
+    font-size: x-large; color: orange; font-weight: bold;
+}
+
+.styledFont {
+    color: darkred;
+}
+
+.styledImage {
+border: solid 21px red;
+}
